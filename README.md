@@ -9,7 +9,7 @@ Museum of Candy は、キャンディをテーマにした美しいデザイン�
 Bootstrap 4 を活用し、モダンなレイアウトを実現
 
 📌 使用技術
-HTML5
-CSS3
-JavaScript（jQuery）
+HTML5,
+CSS3,
+JavaScript（jQuery）,
 Bootstrap（グリッドシステム・ナビゲーション・レスポンシブ対応）
